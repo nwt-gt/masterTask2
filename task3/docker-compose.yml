@@ -1,0 +1,10 @@
+version: "3.3"
+services:
+  rocker:
+    image: rocker/rstudio:3.6
+    env_file: .env
+    environment:
+            - USER=$USER
+            - PASSWORD=$PASSWORD
+    ports:
+            - "8787:8787"
