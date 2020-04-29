@@ -1,4 +1,6 @@
 # masterclass
 ## consist of answers for masterclas
-### trying out the different headers
+### Task1.sh is a script for the first question in masterclass slides
+to run, use command below
+sh task1.sh 
 #### This is the fourth header
