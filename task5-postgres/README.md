@@ -1,5 +1,6 @@
-# task 5
+# Task 5
 
+## Task5A
 Already cloned the DB scripts from this [link](https://github.com/jOOQ/jOOQ/blob/master/jOOQ-examples/Sakila/postgres-sakila-db)
 into folder dbScripts
 
@@ -82,3 +83,16 @@ POSTGRES_PASSWORD=postgres
 POSTGRES_DB=testdb
 POSTGRES_USER=postgres
 ```
+## Task5B
+
+Install python requirements
+```
+sudo apt-get install python-psycopg2
+```
+
+Run following syntax on command line to see output. [More information](https://pynative.com/python-postgresql-select-data-from-table/)
+
+```
+python connectDB.py
+```
+
