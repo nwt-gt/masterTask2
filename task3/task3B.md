@@ -14,10 +14,7 @@ docker run --rm -d -p 8787:8787 --name rstudio -e USER=sammy -e PASSWORD=passwor
 ``` 
 
 To enter application from browser
-```
-http://172.18.80.83:8787/
-``` 
-**or** 
+
 ```
 localhost:8787
 ```
