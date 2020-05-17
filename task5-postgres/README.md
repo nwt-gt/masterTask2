@@ -5,9 +5,8 @@ Clone the DB scripts from this [link](https://github.com/jOOQ/jOOQ/blob/master/j
 **Run syntax**
 
 ```
-docker volume create post5
-docker run --rm -d --name post5 --mount source=post5,target=/data postgres
-docker run --rm -d --name post5 --mount source=post5,target=/data -e POSTGRES_PASSWORD=postgres -e POSTGRES_USER=weetong postgres
+docker volume create post5-volume
+docker run --rm -d --name post5 --mount source=post5-volume,target=/data -e POSTGRES_PASSWORD=postgres -e POSTGRES_USER=weetong postgres
 psql -U weetong
 ```
 
