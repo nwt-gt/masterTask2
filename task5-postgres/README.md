@@ -1,6 +1,7 @@
 # task 5
 
-Clone the DB scripts from this [link](https://github.com/jOOQ/jOOQ/blob/master/jOOQ-examples/Sakila/postgres-sakila-db)
+Already cloned the DB scripts from this [link](https://github.com/jOOQ/jOOQ/blob/master/jOOQ-examples/Sakila/postgres-sakila-db)
+into folder dbScripts
 
 **Run syntax**
 
