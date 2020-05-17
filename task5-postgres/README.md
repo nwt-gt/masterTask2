@@ -80,5 +80,5 @@ Details for postgres
 ```
 POSTGRES_PASSWORD=postgres
 POSTGRES_DB=testdb
-POSTGRES_USER=weetong
+POSTGRES_USER=postgres
 ```
