@@ -1,5 +1,6 @@
-# masterclass
-## consist of answers for masterclas
-### Task1.sh is a script for the first question in masterclass slides
-to run, use command: sh task1.sh
-#### This is the fourth header
+# Masterclass
+
+1. Task 1
+..a. write shell command to find linux process for root user
+2. Task 2
+..b set up github account and create a markdown file as since on this page
