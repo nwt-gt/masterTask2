@@ -11,5 +11,5 @@ Create a template folder to container the display html. In this case it is main.
 
 For more information
  * [How to create flask app](https://stackoverflow.com/questions/12277933/send-data-from-a-textbox-into-flask)
- * [How to create flask app](https://stackoverflow.com/questions/50822882/how-to-use-users-input-to-run-another-function-in-flask-python)
+ * [More on how to create flask app](https://stackoverflow.com/questions/50822882/how-to-use-users-input-to-run-another-function-in-flask-python)
  * [How to reverse string](https://www.educative.io/edpresso/how-do-you-reverse-a-string-in-python)
